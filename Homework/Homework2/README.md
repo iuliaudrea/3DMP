@@ -1,5 +1,9 @@
-# Homework #2
-Tasks:
-* Download a model from Thingiverse and modify it. Think of an useful improvement. If you’re happy with the new design, upload it as a remix of the original.
-* Design model A1(following the lab video tutorials), A2, A3, A4(following the lab video tutorials) you can find the isometric schemes at this link: https://drive.google.com/drive/folders/16N1ziNJJ3GGEMqk-bpYgEOiDIbeWBGdc?usp=sharing
-* Push the homework on GitHub
+# Homerwork #2
+This folder contains:  
+- a remixed model from Thingiverse;
+
+- 4 models designed after the [isometric schemes](https://drive.google.com/drive/folders/16N1ziNJJ3GGEMqk-bpYgEOiDIbeWBGdc).
+
+<img src="https://user-images.githubusercontent.com/76184859/111082374-8e66ba00-8510-11eb-95c7-d2a0d3018823.png" width="200"/> <img src="https://user-images.githubusercontent.com/76184859/111082376-8eff5080-8510-11eb-9473-1bc45bc44999.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/76184859/111082377-8f97e700-8510-11eb-82d5-6c0d9174a6ea.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/76184859/111082378-8f97e700-8510-11eb-920a-21c55919bb55.png" height="200"/>
