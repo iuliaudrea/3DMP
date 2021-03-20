@@ -1,3 +1,4 @@
-# 3DMP - Week 1
-A dino keychain was designed in this lab.
-![dinoo](https://user-images.githubusercontent.com/76184859/110255082-b303e480-7f9a-11eb-824f-ea2ac3979aa6.png)
+# Lab #1
+:sauropod: A dino keychain was designed in this lab. 
+ 
+<img src="https://user-images.githubusercontent.com/76184859/111877676-ff90ec00-89ac-11eb-9f0b-1782ea7e50ed.png" height="250"/>
