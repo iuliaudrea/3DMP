@@ -14,3 +14,7 @@ This folder contains the homework assigned in the course.
 * a knight
 * a queen
 * a chess board
+
+#### Homework #4:
+* Scotch Yoke mechanism
+* Geneva mechanism
