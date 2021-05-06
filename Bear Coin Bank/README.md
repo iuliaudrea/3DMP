@@ -20,3 +20,13 @@ The bear coin bank works by pushing the bear's ears, which elevates the hand wit
 ### Mechanism's author
 Thingiverse: https://www.thingiverse.com/thing:4809969  
 Youtube: https://www.youtube.com/watch?v=njh3S9VZ788&t=255s
+
+### Checkpoints
+Chekpoint 1:
+- chose project;
+- created main components.
+
+Checkpoint 2:
+- decided to model a cat coin bank instead of a bear coin bank;
+- created the body;
+- started designing the head and the eyes.
