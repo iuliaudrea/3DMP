@@ -17,3 +17,6 @@ This repository contains the projects assigned in the _Introduction to 3D Modeli
  - [x] Lab #1: a dino keychain
  - [x] Lab #6: 5 types of joints
  - [x] Lab #7: 4 types of gears
+ - [x] Lab #8: 3 types of gears
+
+#### Bear Coin Bank - Final project
