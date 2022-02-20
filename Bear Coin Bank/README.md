@@ -4,9 +4,12 @@
 The mechanism that I chose for the final project is a bear coin bank. When inserting coins, the bear's mouth opens and the coin slips inside the bank. I chose this project because it's both useful and adorable.
 
 ### How it works
+
+<p align = 'center'>
 <a href="https://www.youtube.com/watch?v=njh3S9VZ788&t=255s">
-<img src="https://user-images.githubusercontent.com/76184859/115960332-72940200-a519-11eb-92a5-eea48b61f87a.gif" alt="Source: https://www.youtube.com/watch?v=njh3S9VZ788&t=255s" width="400"/>
+<img src="videos and gifs\howItWorks.gif"  width="400"/>
 </a>
+</p>
 
 The bear coin bank works by pushing the bear's ears, which elevates the hand with the tray, and the coin slips inside the bear's mouth. The coins can be collected by opening the bottom cap.
 
@@ -49,7 +52,9 @@ https://user-images.githubusercontent.com/76184859/119260120-066cf280-bbda-11eb-
 
 #### Finished mechanism
 
-<img src="https://user-images.githubusercontent.com/76184859/119263103-6073b500-bbe6-11eb-8347-c336a9585d17.png" height="300">  <img src="https://user-images.githubusercontent.com/76184859/119263106-623d7880-bbe6-11eb-8edc-db6b65a43bb6.png" height="300">  <img src="https://user-images.githubusercontent.com/76184859/119263181-adf02200-bbe6-11eb-922f-f52303e3a044.png" height="200">
+ <img src="images/cat1.png" width=30%> <img
+ src="images/cat2.png" width=30%>  <img
+ src="images/cat3.png" width=30%>
 
 
 ### Checkpoints
@@ -74,21 +79,27 @@ https://user-images.githubusercontent.com/76184859/119260120-066cf280-bbda-11eb-
 
 ### Renderings
 The renderings were made in the _Demo_ file. I used the _Rim Highlights_ environment.  
-  
-<img src="https://user-images.githubusercontent.com/76184859/119263997-01b03a80-bbea-11eb-98ab-3135b9f1154b.jpg" height="300">  <img src="https://user-images.githubusercontent.com/76184859/119263999-02e16780-bbea-11eb-85cc-389e6c1dfe1e.png" height="300">  <img src="https://user-images.githubusercontent.com/76184859/119264000-04129480-bbea-11eb-9201-0b3e5260598e.png" height="300">
 
-<img src="https://user-images.githubusercontent.com/76184859/119262780-2c4bc480-bbe5-11eb-9be9-bf5dd755f143.gif" width="450">  <img src="https://user-images.githubusercontent.com/76184859/119265806-ac2b5c00-bbf0-11eb-9010-8b9fc6f42f0f.gif" width="450">
+<img src="images\bank + coin.jpg" width=30%>  <img 
+src="images\front.png" width=30%>  <img 
+src="images\dollar eyes.png" width=30%>
 
-### Mechanism's author
-Thingiverse: https://www.thingiverse.com/thing:4809969  
-Youtube: https://www.youtube.com/watch?v=njh3S9VZ788&t=255s
-
-I used [this cat](https://www.instagram.com/milkyblvck/) as an inspiration in designing the cat coin bank:  
-  
-<img src="https://user-images.githubusercontent.com/76184859/119265907-3a074700-bbf1-11eb-8436-af20a77dc07a.png" height="400">
-
+<img src="videos and gifs\coin bank.gif" width=45%>  <img
+ src="videos and gifs\bottom cap.gif" width=45%>
 
 ### Software and files
 The software I used to create and render this project is _Fusion 360_. The whole project is saved as an _.f3d_ file and each body is saved as an _.stl_.  
 Other file types: .png, .jgp, .mp4, .gif.
+
+
+### Credits
+
+<br>
+<a href="https://www.youtube.com/watch?v=njh3S9VZ788&t=255s">
+<img src="logos/youtubeLogo.png" style="height:50px">
+</a> <a href="https://www.thingiverse.com/thing:4809969 ">
+<img src="logos/thingiverseLogo.png" style="height:50px">
+</a> <a href="https://www.instagram.com/p/B1mCdyzAXvv/">
+<img src="logos/instagramLogo.png" style="height:50px">
+</a>
 
